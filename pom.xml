@@ -397,11 +397,11 @@
     <distributionManagement>
         <snapshotRepository>
             <id>snapshots</id>
-            <url>http://maven.soulapp.cn/repository/maven-snapshots</url>
+            <url>todo</url>
         </snapshotRepository>
         <repository>
             <id>releases</id>
-            <url>http://maven.soulapp.cn/repository/maven-releases</url>
+            <url>todo</url>
         </repository>
     </distributionManagement>
 
